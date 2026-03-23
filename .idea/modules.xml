@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lec02/ComputingNumbers/ComputingNumbers.iml" filepath="$PROJECT_DIR$/lec02/ComputingNumbers/ComputingNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec02/MultiplyNumbers/MultiplyNumbers.iml" filepath="$PROJECT_DIR$/lec02/MultiplyNumbers/MultiplyNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec01/lec01.iml" filepath="$PROJECT_DIR$/lec01/lec01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec03/lec03.iml" filepath="$PROJECT_DIR$/lec03/lec03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/opp-programming.iml" filepath="$PROJECT_DIR$/.idea/opp-programming.iml" />
+    </modules>
+  </component>
+</project>
