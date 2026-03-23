@@ -19,6 +19,7 @@ public class Main {
         System.out.println("First is "+num1+" and Second is "+num2);
         System.out.println("The addition is "+ sum(num1, num2));
         System.out.println("The multiplication is "+ multiply(num1, num2));
+        System.out.printf("%nThe First integer (%d) and the second integer (%d) %n" ,num1 ,num2);
         //end of main()
 
     }
