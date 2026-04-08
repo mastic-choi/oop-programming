@@ -9,7 +9,7 @@ class Main{
         float y_ = sc.nextFloat();
 
         float check = (x_-x)*(x_-x) + (y_-y)*(y_-y);
-        System.out.println(check == (r * r));
+        System.out.println(check <= (r * r));
 
     }
 }
