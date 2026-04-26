@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CaseTest/CaseTest.iml" filepath="$PROJECT_DIR$/CaseTest/CaseTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComputeNumbers/ComputeNumbers.iml" filepath="$PROJECT_DIR$/ComputeNumbers/ComputeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComputeShape/ComputeShape.iml" filepath="$PROJECT_DIR$/ComputeShape/ComputeShape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComputingNumber/ComputingNumber.iml" filepath="$PROJECT_DIR$/ComputingNumber/ComputingNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypeTesting/DataTypeTesting.iml" filepath="$PROJECT_DIR$/DataTypeTesting/DataTypeTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoopTest/ForLoopTest.iml" filepath="$PROJECT_DIR$/ForLoopTest/ForLoopTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuGuDan/GuGuDan.iml" filepath="$PROJECT_DIR$/GuGuDan/GuGuDan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IncrementTest/IncrementTest.iml" filepath="$PROJECT_DIR$/IncrementTest/IncrementTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultipleNumbers/MultipleNumbers.iml" filepath="$PROJECT_DIR$/MultipleNumbers/MultipleNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScoreManager/ScoreManager.iml" filepath="$PROJECT_DIR$/ScoreManager/ScoreManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestInputs/TestInputs.iml" filepath="$PROJECT_DIR$/TestInputs/TestInputs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestingWhile/TestingWhile.iml" filepath="$PROJECT_DIR$/TestingWhile/TestingWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrongAnswer/WrongAnswer.iml" filepath="$PROJECT_DIR$/WrongAnswer/WrongAnswer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/study-mide-exam.iml" filepath="$PROJECT_DIR$/.idea/study-mide-exam.iml" />
+    </modules>
+  </component>
+</project>
