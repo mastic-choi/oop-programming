@@ -3,7 +3,7 @@ public class CircleTest {
         Point p1 = new Point(150, 300);
         Circle c1 = new Circle(777.7, p1);
         System.out.println(c1);
-        long area = c1.calArea();
+        double area = c1.calArea();
         System.out.println("The result is "+ area);
     }
 }

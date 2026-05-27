@@ -15,7 +15,7 @@ public class Circle {
     public String toString(){
         return ("radius " + radius + " at " + p);
     }
-    public long calArea(){
-        return (long)(radius*radius*PI);
+    public double calArea(){
+        return (radius*radius*PI);
     }
 }
