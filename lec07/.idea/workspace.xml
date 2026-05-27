@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ed70c39-bee3-4a9a-9416-7ebb57f096b6" name="변경" comment="" />
+    <list default="true" id="6df424d8-3d08-4009-beaa-eb85db6b5eff" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -22,23 +22,26 @@
     "accountId": "6e32f07e-b539-4871-8394-ffedf6b90fcd"
   }
 }]]></component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="3BKUHJBWDmgzb84ACkU3ljXnj7a" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3BxyYe1jGzjKZHW2zRGNJUrdauK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+    "onboarding.tips.debug.path": "/Users/mastic-choi/code/oop-programming/lec07/ScoreManager/src/Main.java",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Main.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -51,13 +54,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="0ed70c39-bee3-4a9a-9416-7ebb57f096b6" name="변경" comment="" />
-      <created>1774237166617</created>
+      <changelist id="6df424d8-3d08-4009-beaa-eb85db6b5eff" name="변경" comment="" />
+      <created>1775445065625</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1774237166617</updated>
-      <workItem from="1774237168114" duration="29000" />
-      <workItem from="1779853161395" duration="89000" />
+      <updated>1775445065625</updated>
+      <workItem from="1775445067195" duration="2526000" />
     </task>
     <servers />
   </component>
