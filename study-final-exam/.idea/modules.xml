@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/prof'sExampleCode/1-my/1-my.iml" filepath="$PROJECT_DIR$/prof'sExampleCode/1-my/1-my.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prof'sExampleCode/2-my/2-my.iml" filepath="$PROJECT_DIR$/prof'sExampleCode/2-my/2-my.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prof'sExampleCode/2-my-2/2-my-2.iml" filepath="$PROJECT_DIR$/prof'sExampleCode/2-my-2/2-my-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prof'sExampleCode/3-my/3-my.iml" filepath="$PROJECT_DIR$/prof'sExampleCode/3-my/3-my.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prof'sExampleCode/4-my/4-my.iml" filepath="$PROJECT_DIR$/prof'sExampleCode/4-my/4-my.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prof'sExampleCode/5-my/5-my.iml" filepath="$PROJECT_DIR$/prof'sExampleCode/5-my/5-my.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prof'sExampleCode/1-my/PointClass/PointClass.iml" filepath="$PROJECT_DIR$/prof'sExampleCode/1-my/PointClass/PointClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prof'sExampleCode/prof'sExampleCode.iml" filepath="$PROJECT_DIR$/prof'sExampleCode/prof'sExampleCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-4/study-4.iml" filepath="$PROJECT_DIR$/study-4/study-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/study-final-exam.iml" filepath="$PROJECT_DIR$/.idea/study-final-exam.iml" />
+    </modules>
+  </component>
+</project>
